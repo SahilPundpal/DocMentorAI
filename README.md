@@ -10,7 +10,6 @@ Designed for students and self-learners, DocMentor AI helps users **understand, 
 
 🚀 **Live Application:** https://doc-mentor-ai.vercel.app/
 
-📂 **GitHub Repository:** https://github.com/SahilPundpal/DocMentorAI
 
 ---
 

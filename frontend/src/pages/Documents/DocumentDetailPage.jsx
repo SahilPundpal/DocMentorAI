@@ -44,7 +44,7 @@ const DocumentDetailPage = () => {
       return filePath;
     }
 
-    const baseUrl = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+    const baseUrl = import.meta.env.VITE_BACKEND_URL || "https://docmentorai.onrender.com";
     return `${baseUrl}${filePath.startsWith('/') ? '' : '/'}${filePath}`;
   };
 
